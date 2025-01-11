@@ -2,25 +2,25 @@ export const dataFake = [
   {
   "id":"1",
   "photo":"",
-  "title":"Titulo",
-  "description":"Descrição do conteúdo",
+  "title":"Blog Angular",
+  "description":"Opção 1",
   },
   {
     "id":"2",
     "photo":"",
-    "title":"Titulo",
-    "description":"Descrição do conteúdo",
+    "title":"2",
+    "description":"Opção 2",
   },
   {
     "id":"3",
     "photo":"",
-    "title":"Titulo",
-    "description":"Descrição do conteúdo",
+    "title":"3",
+    "description":"Opção 3",
   },
   {
     "id":"4",
     "photo":"",
-    "title":"Titulo",
-    "description":"Descrição do conteúdo",
+    "title":"4",
+    "description":"Opção 4",
   },
 ];
